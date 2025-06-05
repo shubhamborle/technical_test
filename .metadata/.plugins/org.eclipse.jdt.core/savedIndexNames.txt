@@ -47,7 +47,6 @@ INDEX VERSION 1.131+C:\Users\ShubhamBorle\Desktop\technical_task\.metadata\.plug
 4154925210.index
 1164978450.index
 4161672197.index
-1896280772.index
 54647508.index
 4153985853.index
 4156144592.index
