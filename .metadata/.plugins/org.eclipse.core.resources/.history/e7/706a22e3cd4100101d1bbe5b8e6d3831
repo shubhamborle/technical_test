@@ -1,0 +1,5 @@
+package com.app.demo_sub_que.entity;
+
+public class Subject {
+
+}
